@@ -1,0 +1,27 @@
+
+body {
+  background-color: #111;
+  color: #eee;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #222;
+  padding: 20px;
+  text-align: center;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  margin: 10px;
+}
+nav ul li a {
+  color: #0f8;
+  text-decoration: none;
+  font-size: 18px;
+}
