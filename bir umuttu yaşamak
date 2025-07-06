@@ -1,0 +1,4 @@
+<html><head><link rel="stylesheet" href="../style.css"></head>
+<body><h2>Yeni Şarkım</h2>
+<audio controls><source src="../assets/bir umuttu yaşamak.wav" type="audio/wav"></audio>
+</body></html>
